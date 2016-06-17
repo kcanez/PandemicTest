@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/CardTests.unity
+  isLoaded: 1
+  isActive: 1

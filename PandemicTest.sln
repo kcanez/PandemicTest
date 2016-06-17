@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CEC3685C-B946-100E-EF14-91E312A0C05E}") = "PandemicTest", "Assembly-CSharp.csproj", "{59B777F5-827E-3D5B-A8AC-B74A1966DAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B777F5-827E-3D5B-A8AC-B74A1966DAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B777F5-827E-3D5B-A8AC-B74A1966DAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B777F5-827E-3D5B-A8AC-B74A1966DAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B777F5-827E-3D5B-A8AC-B74A1966DAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
